@@ -27,6 +27,9 @@ and after that run ( npm start ), by reaching out to an intergrated terminal for
 
 5. Menu
 
+![image](https://user-images.githubusercontent.com/97975048/229909170-5af3bede-d43c-4347-9979-fd3631e4b697.png)
+
+
 6. Tabs
 
 7. Slider
