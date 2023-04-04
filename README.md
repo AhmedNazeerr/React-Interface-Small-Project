@@ -1,4 +1,5 @@
-# React Projects ## all the project are functional, some are fetching data from api and other i have attahced data files
+# React Interactive Projects
+## all the project are functional, some are fetching data from api and other i have attahced data files
 
 ## In order to Run
 
