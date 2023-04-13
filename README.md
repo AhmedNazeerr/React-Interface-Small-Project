@@ -32,6 +32,9 @@ and after that run ( npm start ), by reaching out to an intergrated terminal for
 
 6. Tabs
 
+![image](https://user-images.githubusercontent.com/97975048/231814428-876f324c-e199-42e0-a50e-df72172f8af9.png)
+
+
 7. Slider
 
 8. Lorem Ipsum Generator
