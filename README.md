@@ -37,6 +37,9 @@ and after that run ( npm start ), by reaching out to an intergrated terminal for
 
 7. Slider
 
+![image](https://user-images.githubusercontent.com/97975048/232536532-8ba9fbe6-3f19-4aa9-aa97-6c83721a4b6f.png)
+
+
 8. Lorem Ipsum Generator
 
 9. Color Shades Generator
