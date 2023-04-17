@@ -45,7 +45,11 @@ and after that run ( npm start ), by reaching out to an intergrated terminal for
 ![image](https://user-images.githubusercontent.com/97975048/232551977-fad9925d-0e40-437d-8071-3a86b6a01307.png)
 
 
+
 9. Color Shades Generator
+
+![image](https://user-images.githubusercontent.com/97975048/232594024-6f81a4bd-3bda-4169-8351-5e3dc205f350.png)
+
 
 10. Grocery Bud
 
