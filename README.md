@@ -53,6 +53,9 @@ and after that run ( npm start ), by reaching out to an intergrated terminal for
 
 10. Grocery Bud
 
+![image](https://user-images.githubusercontent.com/97975048/232833966-b574b062-0883-4ce8-a2b0-9788a4bc1b13.png)
+
+
 11. Navbar
 
 12. Modal And Sidebar
