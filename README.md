@@ -58,6 +58,9 @@ and after that run ( npm start ), by reaching out to an intergrated terminal for
 
 11. Navbar
 
+![image](https://user-images.githubusercontent.com/97975048/233453545-8a5d6bbb-c93f-4d47-8f41-b3f3ac1d3da9.png)
+
+
 12. Modal And Sidebar
 
 13. Stripe Submenus
