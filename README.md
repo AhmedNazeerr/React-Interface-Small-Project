@@ -1,5 +1,5 @@
 # React Interactive Projects
-## all the project are functional, some are fetching data from api and other i have attahced data files
+## All the project are functional, some are fetching data from api and other i have attahced data files
 
 ## In order to Run
 
@@ -60,11 +60,3 @@ and after that run ( npm start ), by reaching out to an intergrated terminal for
 
 ![image](https://user-images.githubusercontent.com/97975048/233453545-8a5d6bbb-c93f-4d47-8f41-b3f3ac1d3da9.png)
 
-
-12. Modal And Sidebar
-
-13. Stripe Submenus
-
-14. Cart
-
-15. Cocktails
